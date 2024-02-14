@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+/* Custom CSS for movie gallery */
+.img-fluid {
+    width: 100px; /* Set width of images */
+    height: 100px; /* Set height of images */
+    border-radius: 5px; /* Add border radius to images for rounded corners */
+    margin: 5px; /* Add some margin around the images for spacing */
+}
